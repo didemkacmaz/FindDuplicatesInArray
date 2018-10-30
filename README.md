@@ -1,4 +1,5 @@
 # FindDuplicatesInArray
+```
 package com.didem;
 
 import java.util.HashMap;
@@ -24,3 +25,4 @@ public class FindDuplicatesInArray {
 
 	}
 }
+```
